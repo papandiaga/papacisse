@@ -10,6 +10,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <h1>Hello</h1>.
+        <h2>This yo boy Pop's</h2>
+        <img src="curry.jpg" alt="Girl in a jacket" width="500" height="600">
         <a
           className="App-link"
           href="https://reactjs.org"
